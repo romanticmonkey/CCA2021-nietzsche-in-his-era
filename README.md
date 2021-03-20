@@ -7,4 +7,4 @@ Classification --> regarding LSTM and BERT models <br>
 
 Google_Ngrams --> a failed attempt to contruct W2V on Google Ngrams
 
-Note: I have some problem pushing files through command lines, so the models are uploaded in .rar files.
+Note: I have some problem pushing files through command lines. Please contact me for data files.
